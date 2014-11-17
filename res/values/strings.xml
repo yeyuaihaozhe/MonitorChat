@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">map</string>
+	<string name="longitude">经度:</string>
+	<string name="latitude">纬度:</string>
+	<string name="find">定位</string>
+	<string name="add"> 添加  </string>
+	<string name="monitoring"> 小伙伴 </string>
+	<string name="mylocation">我的位置</string>
+	<string name="btsearch">搜索</string>
+	<string name="searchUser">请输入用户名:</string>
+	<string name="login_username_hint">请输入用户名&#8230;</string>
+	<string name="login_password_hint">请输入密码&#8230;</string>
+	<string name="register_password_confirm_hint">请再输入密码&#8230;</string>
+	<string name="register_email_confirm_hint">请输入邮箱&#8230;</string>
+	<string name="login">登录</string>
+	<string name="register_txt1">还没有账号？</string>
+    <string name="register_txt2">立即注册 ></string>
+    <string name="register">注册</string>
+    <string name="network_tips">网络不可用</string>
+    <string name="register_tips_name_empty">用户名不能为空</string>
+    <string name="register_tips_password_wrong">请输入六位或以上密码</string>
+    <string name="register_tips_password_notmatch">两次输入密码不一致</string>
+    <string name="register_tips_user_exist">用户已存在</string>
+    <string name="register_tips_email_empty">邮箱不能为空</string>
+    <string name="register_ui_cb_sex">性别</string>
+    <string name="register_tips_register_success">注册成功</string>
+    <string name="register_tips_register_fail">注册失败</string>
+</resources>

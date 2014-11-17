@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="libs/AMap_3DMap_V2.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/F:/安卓/地图开发/AMap_Android_3D_SDK_Doc1.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/Android_Location_V1.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/F:/安卓/地图开发/AMap_Location_API_Doc_V1.3.0.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/AMap_Services_V2.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/F:/安卓/地图开发/AMap_Android_Search_SDK_Doc1.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
